@@ -1,0 +1,14 @@
+{
+  "name": "y-webrtc-server",
+  "version": "1.0.0",
+  "description": "webrtc-server",
+  "main": "index.js",
+  "scripts": {
+    "start": "npx y-webrtc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "y-webrtc": "^10.2.5"
+  }
+}
